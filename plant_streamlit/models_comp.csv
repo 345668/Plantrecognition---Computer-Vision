@@ -1,0 +1,10 @@
+Model,Feature Extraction,Input Image Size,Dimensionality Reduction,Classifier,Training Time (mins),Inference Time (secs)
+PCA + SVM,None,64x64,PCA,SVM,17,1
+HOG + PCA + Decision Tree,HOG,64x64,PCA,Decision Tree,9,1
+PCA + Random Forest,None,64x64,PCA,Random Forest,7,1
+LBP + k-NN,LBP,128x128,None,k-NN,23,1
+LDA + k-NN,None,128x128,LDA,k-NN,12,1
+LDA + Logistic Regression,None,64x64,LDA,Logistic Regression,20,1
+Gabor + LDA + Logistic Regression,Gabor,64x64,LDA,Logistic Regression,13,1
+CNN,None,64x64,None,CNN,983,2
+VGG16,None,256x256,None,VGG16,943,3

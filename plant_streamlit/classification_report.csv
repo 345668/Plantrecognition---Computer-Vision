@@ -1,0 +1,42 @@
+Label,Precision,Recall,F1-Score,Support
+Apple___Apple_scab,0.95,0.92,0.94,577
+Apple___Black_rot,0.98,0.97,0.97,529
+Apple___Cedar_apple_rust,0.97,0.98,0.98,605
+Apple___healthy,0.95,0.96,0.96,604
+Blueberry___healthy,0.95,0.99,0.97,573
+Cherry_(including_sour)___Powdery_mildew,0.96,0.98,0.97,570
+Cherry_(including_sour)___healthy,0.98,0.97,0.97,616
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.87,0.9,0.88,574
+Corn_(maize)___Common_rust_,0.98,0.97,0.98,611
+Corn_(maize)___Northern_Leaf_Blight,0.88,0.86,0.87,544
+Corn_(maize)___healthy,1.0,1.0,1.0,579
+Grape___Black_rot,0.97,0.95,0.96,562
+Grape___Esca_(Black_Measles),0.96,0.96,0.96,489
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),0.98,0.99,0.99,632
+Grape___healthy,0.99,1.0,0.99,586
+Orange___Haunglongbing_(Citrus_greening),1.0,1.0,1.0,696
+Peach___Bacterial_spot,0.96,0.93,0.94,581
+Peach___healthy,0.97,0.98,0.97,621
+"Pepper,_bell___Bacterial_spot",0.97,0.92,0.94,546
+"Pepper,_bell___healthy",0.94,0.97,0.96,568
+Potato___Early_blight,0.98,0.97,0.98,599
+Potato___Late_blight,0.95,0.94,0.94,592
+Potato___healthy,0.97,0.99,0.98,591
+Raspberry___healthy,0.99,0.98,0.99,547
+Soybean___healthy,0.98,0.96,0.97,634
+Squash___Powdery_mildew,0.99,0.98,0.99,613
+Strawberry___Leaf_scorch,0.99,0.99,0.99,518
+Strawberry___healthy,0.99,0.99,0.99,597
+Tomato___Bacterial_spot,0.88,0.86,0.87,569
+Tomato___Early_blight,0.76,0.76,0.76,572
+Tomato___Late_blight,0.89,0.82,0.85,535
+Tomato___Leaf_Mold,0.89,0.85,0.87,586
+Tomato___Septoria_leaf_spot,0.86,0.81,0.83,601
+Tomato___Spider_mites Two-spotted_spider_mite,0.83,0.85,0.84,584
+Tomato___Target_Spot,0.68,0.8,0.74,537
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.97,0.96,0.97,610
+Tomato___Tomato_mosaic_virus,0.93,0.97,0.95,565
+Tomato___healthy,0.89,0.9,0.9,556
+accuracy,0.94,0.94,0.94,22069
+macro avg,0.94,0.94,0.94,22069
+weighted avg,0.94,0.94,0.94,22069
